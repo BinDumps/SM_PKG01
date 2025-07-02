@@ -103,5 +103,8 @@
   ],
   "IR_AIR":[
     "IR/airwin/galactic1.wav"
+  ],
+  "IR_TAPE":[
+    "IR/tape/bpb_dirt01.wav"
   ]
 }
