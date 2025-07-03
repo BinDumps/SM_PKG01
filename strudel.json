@@ -106,5 +106,20 @@
   ],
   "IR_TAPE":[
     "IR/tape/bpb_dirt01.wav"
+  ],
+  "GU": [
+    "GU/GU-0.mp3",
+    "GU/GU-1.mp3",
+    "GU/GU-10.mp3",
+    "GU/GU-11.mp3",
+    "GU/GU-12.mp3",
+    "GU/GU-2.mp3",
+    "GU/GU-3.mp3",
+    "GU/GU-4.mp3",
+    "GU/GU-5.mp3",
+    "GU/GU-6.mp3",
+    "GU/GU-7.mp3",
+    "GU/GU-8.mp3",
+    "GU/GU-9.mp3"
   ]
 }
